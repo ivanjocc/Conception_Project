@@ -135,7 +135,7 @@ body {
     cursor: pointer;
 }
 
-.container__button input[type="button"]:hover {
+.container__button input[type="button"]:nth-child(1):hover {
     border: none;
     background-color: #191919;
     color: #FFF;
@@ -390,7 +390,7 @@ body {
     cursor: pointer;
 }
 
-.container-6__text-button input[type="button"]:hover {
+.container-6__text-button input[type="button"]:nth-child(1):hover {
     border: none;
     background-color: #191919;
     color: #FFF;
